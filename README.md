@@ -13,7 +13,7 @@ Our focus is narrow on purpose: literature reviews, research design, methodology
 
 ## Featured Project
 
-### Literature Review Skills
+### [Literature Review Skills](https://github.com/xingtaxueshu/literature-review-skills)
 
 Five open agent skills for writing stronger literature reviews:
 
@@ -24,6 +24,8 @@ Five open agent skills for writing stronger literature reviews:
 5. locate a concrete and defensible research gap.
 
 The project is designed for Claude Code and Codex users, but the workflow can also be used without any AI tool.
+
+Repository: https://github.com/xingtaxueshu/literature-review-skills
 
 ## 中文说明
 
