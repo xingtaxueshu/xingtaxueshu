@@ -33,3 +33,13 @@ Repository: https://github.com/xingtaxueshu/literature-review-skills
 
 我们不把 AI 当成代写工具。更准确地说，它应该是研究助理：帮你拆问题、整理材料、检查逻辑，但真正的判断仍然由研究者完成。
 
+## Contact
+
+- WeChat: `xingtacc`
+- Email: [xingtaxueshu@outlook.com](mailto:xingtaxueshu@outlook.com)
+- Website: [xingta.cc](https://www.xingta.cc)
+
+Scan the QR code to add the WeChat account:
+
+<img src="assets/wechat-qr.jpg" alt="WeChat QR code for 星塔学术" width="320">
+
