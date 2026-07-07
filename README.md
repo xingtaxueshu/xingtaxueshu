@@ -43,3 +43,7 @@ Scan the QR code to add the WeChat account:
 
 <img src="assets/wechat-qr.jpg" alt="WeChat QR code for 星塔学术" width="320">
 
+Follow the WeChat Official Account:
+
+<img src="assets/wechat-official-account-qr.png" alt="WeChat Official Account QR code for 星塔学术" width="520">
+
