@@ -40,9 +40,14 @@ Designed for Claude Code and Codex users, but the workflow can also be used with
 
 ## Contact
 
-- Website: [www.xingta.cc](https://www.xingta.cc)
+- WeChat: `xingtacc`
 - Email: [xingtaxueshu@outlook.com](mailto:xingtaxueshu@outlook.com)
+- Website: [www.xingta.cc](https://www.xingta.cc)
 - Feedback on a project: open an Issue in the project's repository.
+
+Scan the QR code to add the WeChat account:
+
+<img src="assets/wechat-qr.jpg" alt="WeChat QR code for 星塔学术" width="260">
 
 Follow the WeChat Official Account **星塔学术** (scan the QR code, or search for it in WeChat):
 
